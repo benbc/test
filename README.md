@@ -12,3 +12,5 @@ floom
 drumble
 
 stoik
+
+anoint
