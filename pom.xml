@@ -25,8 +25,8 @@
 						</goals>
 						<configuration>
 							<tasks>
-								<echo>Displaying value of 'testproperty' property</echo>
 								<echo>[testproperty] ${testproperty}</echo>
+								<echo>[java.home] ${java.home}</echo>
 							</tasks>
 						</configuration>
 					</execution>
