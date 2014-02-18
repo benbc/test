@@ -44,7 +44,7 @@
                 <dependency>
                     <groupId>com.sun.tools</groupId>
                     <artifactId>tools</artifactId>
-                    <version>${sun.tools.version}</version>
+                    <version>1</version>
                     <scope>system</scope>
                     <systemPath>${java.home}/../lib/tools.jar</systemPath>
                     <optional>true</optional>
