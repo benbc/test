@@ -1,1 +1,6 @@
+#!/bin/bash -eu
+
+if [ $(shuf --input-range=1-4 --head-count=1) -eq 1 ]; then
+  exit 1
+fi
 echo $1 >$1
